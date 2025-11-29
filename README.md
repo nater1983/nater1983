@@ -1,4 +1,4 @@
-<img src="https://github.com/nater1983/nater1983/blob/main/Angry%20Eyes%20GIF%20by%20Xbox.gif" />
+<img src="https://github.com/nater1983/nater1983/blob/main/Angry%20Eyes%20GIF%20by%20Xbox.gif" width="400" />
 <!--
 **nater1983/nater1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
