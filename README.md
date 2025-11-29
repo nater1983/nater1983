@@ -2,7 +2,7 @@
 
 <!--
 **nater1983/nater1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
