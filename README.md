@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<iframe src="https://giphy.com/embed/XdiKAJKWwPJe2tHjl9" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-XdiKAJKWwPJe2tHjl9">via GIPHY</a></p>
-
+<img src="https://github.com/nater1983/nater1983/blob/main/Angry%20Eyes%20GIF%20by%20Xbox.gif" width="22%" />
 <!--
 **nater1983/nater1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
