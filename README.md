@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt4ZmhmOG9yazhmcWU0OGFwa3U0bDg3ZHlpMjNrdXBzenppcGZ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdiKAJKWwPJe2tHjl9/giphy.gif" width="22%" />
 
 <!--
 **nater1983/nater1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
