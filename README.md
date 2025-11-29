@@ -14,7 +14,8 @@ My current work focuses on **desktop integration**, **service management**, and 
 
 ### 🔭 Current Projects
 
-- 🧩 **Cosmic Desktop for Slackware** — bringing Pop!\_OS’s COSMIC desktop to Slackware  
+- 🧩 **Cosmic Desktop for Slackware** — bringing Pop!\_OS’s COSMIC desktop to Slackware
+- 🧩 **GNOME Desktop for Slackware** — bringing the GNOME desktop to Slackware   
 - ⚙️ **SlackBuild automation** — custom tooling to maintain and update build scripts cleanly  
 - 💡 **GTK4 & Vala** development for desktop tools and utilities  
 
@@ -28,7 +29,7 @@ My current work focuses on **desktop integration**, **service management**, and 
 | **Programming** | C, Vala, Rust, Python |
 | **Build Systems** | Meson, Autotools, CMake |
 | **Packaging** | SlackBuilds, Slackpkg+, Custom build pipelines |
-| **Desktop Environments** | KDE Plasma, COSMIC, GTK4 |
+| **Desktop Environments** | GNOME, COSMIC, PANTHEON, BUDGIE |
 
 ---
 
